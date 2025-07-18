@@ -41,9 +41,20 @@ sudo apt update && sudo apt install aircrack-ng masscan nmap -y
 
 ---
 
+## 🧰 Installation
+
+```bash
+sudo apt update
+sudo apt install git -y
+git clone https://github.com/KechiZona/KechiLab.git
+cd KechiLab
+```
+
+---
+
 ## 🚀 Usage
 
-Make the main script executable:
+Make the main script executable and run:
 
 ```bash
 chmod +x KechiLab.sh
